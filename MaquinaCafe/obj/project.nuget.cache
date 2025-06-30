@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZNJWpn9ojSw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bily Alvarez\\Desktop\\MaquinaCafeTDD\\MaquinaCafe\\MaquinaCafe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bily Alvarez\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.301\\microsoft.net.sdk.compilers.toolset.9.0.301.nupkg.sha512",
+    "C:\\Users\\Bily Alvarez\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.17\\microsoft.windowsdesktop.app.ref.8.0.17.nupkg.sha512",
+    "C:\\Users\\Bily Alvarez\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.17\\microsoft.netcore.app.ref.8.0.17.nupkg.sha512",
+    "C:\\Users\\Bily Alvarez\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.17\\microsoft.aspnetcore.app.ref.8.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

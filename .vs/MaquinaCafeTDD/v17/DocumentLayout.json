@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bily Alvarez\\Desktop\\MaquinaCafeTDD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C1E125-4174-4293-B545-35DE92608D3F}|MaquinaCafeApp\\MaquinaCafeApp.csproj|c:\\users\\bily alvarez\\desktop\\maquinacafetdd\\maquinacafeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C1E125-4174-4293-B545-35DE92608D3F}|MaquinaCafeApp\\MaquinaCafeApp.csproj|solutionrelative:maquinacafeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF833E1-30B7-460F-8531-E81BDD5F2442}|MaquinaCafe.Tests\\MaquinaCafe.Tests.csproj|c:\\users\\bily alvarez\\desktop\\maquinacafetdd\\maquinacafe.tests\\maquinacafetests.cs .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF833E1-30B7-460F-8531-E81BDD5F2442}|MaquinaCafe.Tests\\MaquinaCafe.Tests.csproj|solutionrelative:maquinacafe.tests\\maquinacafetests.cs .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A120656D-ED70-4D59-A3DC-18CDC09897DA}|MaquinaCafe\\MaquinaCafe.csproj|c:\\users\\bily alvarez\\desktop\\maquinacafetdd\\maquinacafe\\maquinacafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A120656D-ED70-4D59-A3DC-18CDC09897DA}|MaquinaCafe\\MaquinaCafe.csproj|solutionrelative:maquinacafe\\maquinacafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bily Alvarez\\Desktop\\MaquinaCafeTDD\\MaquinaCafeApp\\Program.cs",
+              "RelativeDocumentMoniker": "MaquinaCafeApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Bily Alvarez\\Desktop\\MaquinaCafeTDD\\MaquinaCafeApp\\Program.cs",
+              "RelativeToolTip": "MaquinaCafeApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T23:52:50.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MaquinaCafeTests.cs .cs",
+              "DocumentMoniker": "C:\\Users\\Bily Alvarez\\Desktop\\MaquinaCafeTDD\\MaquinaCafe.Tests\\MaquinaCafeTests.cs .cs",
+              "RelativeDocumentMoniker": "MaquinaCafe.Tests\\MaquinaCafeTests.cs .cs",
+              "ToolTip": "C:\\Users\\Bily Alvarez\\Desktop\\MaquinaCafeTDD\\MaquinaCafe.Tests\\MaquinaCafeTests.cs .cs",
+              "RelativeToolTip": "MaquinaCafe.Tests\\MaquinaCafeTests.cs .cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T23:50:08.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MaquinaCafe.cs",
+              "DocumentMoniker": "C:\\Users\\Bily Alvarez\\Desktop\\MaquinaCafeTDD\\MaquinaCafe\\MaquinaCafe.cs",
+              "RelativeDocumentMoniker": "MaquinaCafe\\MaquinaCafe.cs",
+              "ToolTip": "C:\\Users\\Bily Alvarez\\Desktop\\MaquinaCafeTDD\\MaquinaCafe\\MaquinaCafe.cs",
+              "RelativeToolTip": "MaquinaCafe\\MaquinaCafe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T23:46:07.775Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
