@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2eD+KA8I+N4=",
+  "dgSpecHash": "fVyw0MJXtCE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bily Alvarez\\Desktop\\MaquinaCafeTDD\\MaquinaCafe.Tests\\MaquinaCafe.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Bily Alvarez\\Desktop\\MaquinaCafeTDD\\MaquinaCafeTDD\\MaquinaCafeTDD\\MaquinaCafe.Tests\\MaquinaCafe.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bily Alvarez\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Bily Alvarez\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
@@ -93,9 +93,8 @@
     "C:\\Users\\Bily Alvarez\\.nuget\\packages\\xunit.extensibility.core\\2.5.3\\xunit.extensibility.core.2.5.3.nupkg.sha512",
     "C:\\Users\\Bily Alvarez\\.nuget\\packages\\xunit.extensibility.execution\\2.5.3\\xunit.extensibility.execution.2.5.3.nupkg.sha512",
     "C:\\Users\\Bily Alvarez\\.nuget\\packages\\xunit.runner.visualstudio\\2.5.3\\xunit.runner.visualstudio.2.5.3.nupkg.sha512",
-    "C:\\Users\\Bily Alvarez\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.301\\microsoft.net.sdk.compilers.toolset.9.0.301.nupkg.sha512",
-    "C:\\Users\\Bily Alvarez\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.17\\microsoft.windowsdesktop.app.ref.8.0.17.nupkg.sha512",
     "C:\\Users\\Bily Alvarez\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.17\\microsoft.netcore.app.ref.8.0.17.nupkg.sha512",
+    "C:\\Users\\Bily Alvarez\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.17\\microsoft.windowsdesktop.app.ref.8.0.17.nupkg.sha512",
     "C:\\Users\\Bily Alvarez\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.17\\microsoft.aspnetcore.app.ref.8.0.17.nupkg.sha512"
   ],
   "logs": []

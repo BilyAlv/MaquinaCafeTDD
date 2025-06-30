@@ -5530,11 +5530,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bily Alvarez\\Desktop\\MaquinaCafeTDD\\MaquinaCafe.Tests\\MaquinaCafe.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Bily Alvarez\\Desktop\\MaquinaCafeTDD\\MaquinaCafeTDD\\MaquinaCafeTDD\\MaquinaCafe.Tests\\MaquinaCafe.Tests.csproj",
       "projectName": "MaquinaCafe.Tests",
-      "projectPath": "C:\\Users\\Bily Alvarez\\Desktop\\MaquinaCafeTDD\\MaquinaCafe.Tests\\MaquinaCafe.Tests.csproj",
+      "projectPath": "C:\\Users\\Bily Alvarez\\Desktop\\MaquinaCafeTDD\\MaquinaCafeTDD\\MaquinaCafeTDD\\MaquinaCafe.Tests\\MaquinaCafe.Tests.csproj",
       "packagesPath": "C:\\Users\\Bily Alvarez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bily Alvarez\\Desktop\\MaquinaCafeTDD\\MaquinaCafe.Tests\\obj\\",
+      "outputPath": "C:\\Users\\Bily Alvarez\\Desktop\\MaquinaCafeTDD\\MaquinaCafeTDD\\MaquinaCafeTDD\\MaquinaCafe.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5555,8 +5555,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Bily Alvarez\\Desktop\\MaquinaCafeTDD\\MaquinaCafe\\MaquinaCafe.csproj": {
-              "projectPath": "C:\\Users\\Bily Alvarez\\Desktop\\MaquinaCafeTDD\\MaquinaCafe\\MaquinaCafe.csproj"
+            "C:\\Users\\Bily Alvarez\\Desktop\\MaquinaCafeTDD\\MaquinaCafeTDD\\MaquinaCafeTDD\\MaquinaCafe\\MaquinaCafe.csproj": {
+              "projectPath": "C:\\Users\\Bily Alvarez\\Desktop\\MaquinaCafeTDD\\MaquinaCafeTDD\\MaquinaCafeTDD\\MaquinaCafe\\MaquinaCafe.csproj"
             }
           }
         }
@@ -5609,10 +5609,6 @@
           {
             "name": "Microsoft.AspNetCore.App.Ref",
             "version": "[8.0.17, 8.0.17]"
-          },
-          {
-            "name": "Microsoft.Net.Sdk.Compilers.Toolset",
-            "version": "[9.0.301, 9.0.301]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
